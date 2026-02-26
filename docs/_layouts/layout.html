@@ -7,7 +7,8 @@
 {%- else -%}
     {%- assign type = "article" -%}
 {%- endif -%}
-{%- assign path_parts = page.path | split: "/" -%}
+{%- assign relative_path = page.path | remove_first: "docs/" -%}
+{%- assign path_parts = relative_path | split: "/" -%}
 {%- if path_parts.size > 1 -%}
     {%- assign lang_tag_dir = path_parts[0] -%}
     {%- case lang_tag_dir -%}
@@ -23,10 +24,19 @@
         {%- assign type = "blog" -%}
     {%- endif -%}
 {%- endif -%}
-{%- if page.title and page.title != "" -%}
-    {%- assign html_title = page.title | append: " – " | append: html_title_suffix -%}
-{%- else -%}
+{%- if
+    page.url == "/"
+    or page.path == "index.html"
+    or page.path == "index.md"
+    or page.title == nil
+    or page.title == ""
+-%}
     {%- assign html_title = html_title_suffix -%}
+{%- else -%}
+    {%- assign html_title = page.title
+        | append: " – "
+        | append: html_title_suffix
+    -%}
 {%- endif -%}
 <!DOCTYPE html>
 <html lang="{{ bcp_47_lang_tag }}" dir="ltr">
