@@ -24,9 +24,9 @@
     {%- endif -%}
 {%- endif -%}
 {%- if page.title and page.title != "" -%}
-  {%- assign html_title = page.title | append: " – " | append: html_title_suffix -%}
+    {%- assign html_title = page.title | append: " – " | append: html_title_suffix -%}
 {%- else -%}
-  {%- assign html_title = html_title_suffix -%}
+    {%- assign html_title = html_title_suffix -%}
 {%- endif -%}
 <!DOCTYPE html>
 <html lang="{{ bcp_47_lang_tag }}" dir="ltr">
