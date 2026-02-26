@@ -225,10 +225,10 @@ body[data-site-page-path="zh-Hant"] .site-first-heading {
 }
 </style>
 </head>
-<body class="class="type-{{ type }}">
+<body class="type-{{ type }}">
 <header class="site-header">
 <div class="site-logo">
-<a class="site-logo-link" href="./">
+<a class="site-logo-link" href="{{ '/' | relative_url }}">
 <span class="site-logo-link-text">TKUITOCC</span>
 </a>
 </div>
@@ -239,7 +239,14 @@ body[data-site-page-path="zh-Hant"] .site-first-heading {
 <h1 id="firstHeading" class="site-first-heading">{{ page.title }}</h1>
 </header>
 <div class="site-content">
-{{ content }}
+{%- if content contains "</h1>" -%}
+    {%- assign content_parts = content | split: "</h1>" -%}
+    {%- for part in content_parts offset: 1 -%}
+        {{ part }}{%- if forloop.last == false -%}</h1>{%- endif -%}
+    {%- endfor -%}
+{%- else -%}
+    {{ content }}
+{%- endif -%}
 </div>
 </main>
 <footer class="site-footer">
