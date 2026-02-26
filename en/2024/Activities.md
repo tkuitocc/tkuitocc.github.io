@@ -1,4 +1,4 @@
-# Activities
+# 2024 activities (1st-term)
 
 ## 2024-12-25：社群聚暫停公告
 

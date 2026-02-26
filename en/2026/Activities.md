@@ -1,4 +1,4 @@
-# Activities
+# 2026 Activities (3rd-term)
 
 ## 2026-01-05：2026年第1次社群聚
 

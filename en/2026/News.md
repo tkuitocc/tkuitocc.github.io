@@ -1,4 +1,4 @@
-# News
+# 2026 news (3rd-term)
 
 ## 關於淡江校園通「Dauphin」iOS應用程式的最新狀態說明
 

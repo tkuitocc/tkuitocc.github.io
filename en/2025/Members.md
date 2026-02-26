@@ -1,4 +1,4 @@
-# Members
+# 2025 members (2nd-term)
 
 ## Board of Directors
 
