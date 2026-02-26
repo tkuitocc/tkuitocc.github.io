@@ -1,12 +1,41 @@
+{%- assign bcp_47_lang_tag = "en" -%}
+{%- assign blog_name = "News.md" -%}
+{%- assign html_title_suffix = "Tamkang University Information Technology and Open Culture Community" -%}
+{%- assign copyright_footer = "Except where otherwise noted, the content of this site is licensed under a Creative Commons Zero v1.0 Universal license." -%}
+{%- if page.name == "index.md" -%}
+    {%- assign type = "directory" -%}
+{%- else -%}
+    {%- assign type = "article" -%}
+{%- endif -%}
+{%- assign path_parts = page.path | split: "/" -%}
+{%- if path_parts.size > 1 -%}
+    {%- assign lang_tag_dir = path_parts[0] -%}
+    {%- case lang_tag_dir -%}
+    {%- when "zh-Hant" -%}
+        {%- assign bcp_47_lang_tag = "zh-Hant-TW" -%}
+        {%- assign blog_name = "最新消息.md" -%}
+        {%- assign html_title_suffix = "TKUITOCC 淡江大學資訊科技及開放文化社群" -%}
+        {%- assign copyright_footer = "除非另有註明，否則本站的全部文字內容均在Creative Commons Zero v1.0 Universal授權條款下提供。" -%}
+    {%- else -%}
+        {%- assign bcp_47_lang_tag = lang_tag_dir -%}
+    {%- endcase -%}
+    {%- if page.name == blog_name -%}
+        {%- assign type = "blog" -%}
+    {%- endif -%}
+    {%- if path_parts.size > 2 -%}
+        {%- assign year_dir = path_parts[1] -%}
+    {%- endif -%}
+{%- endif -%}
+{%- assign html_title = page.title | append: " – " | append: html_title_suffix -%}
 <!DOCTYPE html>
-<html lang="zh-Hant-TW" dir="ltr">
+<html lang="{{ bcp_47_lang_tag }}" dir="ltr">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="robots" content="index, follow" />
 <meta name="format-detection" content="telephone=no" />
 <meta name="theme-color" content="#333333" />
-<title>{{ page.title }} – TKUITOCC 淡江大學資訊科技及開放文化社群</title>
+<title>{{ html_title }}</title>
 <link rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/" />
 <style>
 :root {
@@ -196,7 +225,7 @@ body[data-site-page-path="zh-Hant"] .site-first-heading {
 }
 </style>
 </head>
-<body>
+<body class="class="type-{{ type }}">
 <header class="site-header">
 <div class="site-logo">
 <a class="site-logo-link" href="./">
@@ -214,7 +243,7 @@ body[data-site-page-path="zh-Hant"] .site-first-heading {
 </div>
 </main>
 <footer class="site-footer">
-<p>除非另有註明，否則本站的全部文字內容均在Creative Commons Zero v1.0 Universal授權條款下提供。</p>
+<p>{{ copyright_footer }}</p>
 </footer>
 </body>
 </html>
