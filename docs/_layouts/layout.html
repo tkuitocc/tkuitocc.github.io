@@ -31,6 +31,7 @@
 {%- endif -%}
 {%- if
     page.url == "/"
+    or page.url == lang_tag_root
     or page.path == "index.html"
     or page.path == "index.md"
     or page.title == nil
