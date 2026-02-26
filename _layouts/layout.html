@@ -22,9 +22,6 @@
     {%- if page.name == blog_name -%}
         {%- assign type = "blog" -%}
     {%- endif -%}
-    {%- if path_parts.size > 2 -%}
-        {%- assign year_dir = path_parts[1] -%}
-    {%- endif -%}
 {%- endif -%}
 {%- assign html_title = page.title | append: " – " | append: html_title_suffix -%}
 <!DOCTYPE html>
