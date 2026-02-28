@@ -1,4 +1,4 @@
-# 2026年財務收支報表（第3屆）
+# 2026 financial report (3rd-term)
 
 <div class="table-wrapper" style="overflow-x: auto;">
 <table>
