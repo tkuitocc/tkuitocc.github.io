@@ -16,14 +16,12 @@
         | append: lang_tag_dir
         | append: "/"
     -%}
+    {%- assign bcp_47_lang_tag = lang_tag_dir -%}
     {%- case lang_tag_dir -%}
-    {%- when "zh-Hant" -%}
-        {%- assign bcp_47_lang_tag = "zh-Hant-TW" -%}
+    {%- when "zh-Hant-TW" -%}
         {%- assign blog_name = "最新消息.md" -%}
         {%- assign html_title_suffix = "TKUITOCC 淡江大學資訊科技及開放文化社群" -%}
         {%- assign copyright_footer = "除非另有註明，否則本站的全部文字內容均在Creative Commons Zero v1.0 Universal授權條款下提供。" -%}
-    {%- else -%}
-        {%- assign bcp_47_lang_tag = lang_tag_dir -%}
     {%- endcase -%}
     {%- if page.name == blog_name -%}
         {%- assign type = "blog" -%}
