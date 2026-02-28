@@ -46,9 +46,9 @@
 ## Collaboration partners
 
 * NTUT-NPC National Taipei University of Technology Programming Club
+* SCAICT Student Club's Association of Information in Central Taiwan
 * TKUCHC Tamkang University Computer Hardware Club
 * TKUSUC Tamkang University Startup Club
-* SCAICT Student Club's Association of Information in Central Taiwan
 * Wikidata Taiwan Community
 
 ## Join us
