@@ -1,7 +1,7 @@
 # 2024 financial report (1st-term)
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -46,7 +46,7 @@
 ## 2024年12月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -91,7 +91,7 @@
 ## 2024年11月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -136,7 +136,7 @@
 ## 2024年10月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>

@@ -1,7 +1,7 @@
 # 2026 financial report (3rd-term)
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -46,7 +46,7 @@
 ## 2026年3月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -91,7 +91,7 @@
 ## 2026年2月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -136,7 +136,7 @@
 ## 2026年1月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>

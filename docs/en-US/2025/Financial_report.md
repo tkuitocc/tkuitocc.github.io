@@ -1,7 +1,7 @@
 # 2025 financial report (2nd-term)
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -46,7 +46,7 @@
 ## 2025年12月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -91,7 +91,7 @@
 ## 2025年11月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -136,7 +136,7 @@
 ## 2025年10月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -181,7 +181,7 @@
 ## 2025年9月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -226,7 +226,7 @@
 ## 2025年8月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -271,7 +271,7 @@
 ## 2025年7月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -316,7 +316,7 @@
 ## 2025年6月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -361,7 +361,7 @@
 ## 2025年5月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -406,7 +406,7 @@
 ## 2025年4月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -451,7 +451,7 @@
 ## 2025年3月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -496,7 +496,7 @@
 ## 2025年2月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
@@ -541,7 +541,7 @@
 ## 2025年1月財務收支報表
 
 <div class="table-wrapper" style="overflow-x: auto;">
-<table>
+<table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">$0</td>
