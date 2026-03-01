@@ -33,7 +33,7 @@
 <td rowspan="0"></td>
 </tr>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -100,7 +100,7 @@
 <td style="text-align: right;">TWD 453</td>
 </tr>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -150,7 +150,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -201,7 +201,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -252,7 +252,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -303,7 +303,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -354,7 +354,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -405,7 +405,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -456,7 +456,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -507,7 +507,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -558,7 +558,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -609,7 +609,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -660,7 +660,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>

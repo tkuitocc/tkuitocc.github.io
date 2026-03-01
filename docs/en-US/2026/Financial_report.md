@@ -2,6 +2,7 @@
 
 <div class="table-wrapper" style="overflow-x: auto;">
 <table class="wikitable">
+<thead>
 <tr>
 <th colspan="2">前期餘額</th>
 <td style="text-align: right;">TWD 0</td>
@@ -20,8 +21,10 @@
 <th>項目</th>
 <th>金額</th>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -29,6 +32,8 @@
 <td style="text-align: right;"></td>
 <td rowspan="2"></td>
 </tr>
+</tbody>
+<tfoot>
 <tr>
 <th colspan="2">本年收入合計</th>
 <td style="text-align: right;">TWD 0</td>
@@ -40,6 +45,7 @@
 <td style="text-align: right;">TWD 0</td>
 <td colspan="4"></td>
 </tr>
+</tfoot>
 </table>
 </div>
 
@@ -69,7 +75,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -120,7 +126,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -171,7 +177,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">&nbsp;</td>
 <td></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
