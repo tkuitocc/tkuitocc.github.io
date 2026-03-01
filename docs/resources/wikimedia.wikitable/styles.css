@@ -2,8 +2,6 @@
     background-color: var( --background-color-neutral-subtle, #f8f9fa );
     color: var( --color-base, #202122 );
     margin: 1em 0;
-    border: 1px solid var( --border-color-base, #a2a9b1 );
-    border-collapse: collapse;
 }
 
 .wikitable > tr > th,
@@ -30,5 +28,25 @@
         float: none;
         margin-left: 0;
         margin-right: 0;
+    }
+}
+
+@media screen {
+    .wikitable {
+        border: 1px solid var( --border-color-base, #a2a9b1 );
+        border-collapse: collapse;
+    }
+}
+
+@media print {
+    .wikitable {
+        border-spacing: 0;
+    }
+
+    .wikitable > tr > th,
+    .wikitable > tr > td,
+    .wikitable > * > tr > th,
+    .wikitable > * > tr > td {
+        border: 1px solid #000;
     }
 }
