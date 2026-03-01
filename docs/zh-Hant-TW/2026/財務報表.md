@@ -35,9 +35,9 @@
 </tbody>
 <tfoot>
 <tr>
-<th colspan="2">本年收入合計</th>
+<th colspan="2">本期收入合計</th>
 <td style="text-align: right;">TWD 0</td>
-<th colspan="2">本年支出合計</th>
+<th colspan="2">本期支出合計</th>
 <td style="text-align: right;">TWD 0</td>
 <td></td>
 </tr>
@@ -87,9 +87,9 @@
 </tbody>
 <tfoot>
 <tr>
-<th colspan="2">本年收入合計</th>
+<th colspan="2">本期收入合計</th>
 <td style="text-align: right;">TWD 0</td>
-<th colspan="2">本年支出合計</th>
+<th colspan="2">本期支出合計</th>
 <td style="text-align: right;">TWD 0</td>
 <td></td>
 </tr>
@@ -139,9 +139,9 @@
 </tbody>
 <tfoot>
 <tr>
-<th colspan="2">本年收入合計</th>
+<th colspan="2">本期收入合計</th>
 <td style="text-align: right;">TWD 0</td>
-<th colspan="2">本年支出合計</th>
+<th colspan="2">本期支出合計</th>
 <td style="text-align: right;">TWD 0</td>
 <td></td>
 </tr>
@@ -191,9 +191,9 @@
 </tbody>
 <tfoot>
 <tr>
-<th colspan="2">本年收入合計</th>
+<th colspan="2">本期收入合計</th>
 <td style="text-align: right;">TWD 0</td>
-<th colspan="2">本年支出合計</th>
+<th colspan="2">本期支出合計</th>
 <td style="text-align: right;">TWD 0</td>
 <td></td>
 </tr>
