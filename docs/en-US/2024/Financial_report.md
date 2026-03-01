@@ -4,7 +4,7 @@
 <table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <td colspan="4"></td>
 </tr>
 <tr>
@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <th colspan="2">本年收入合計</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <th colspan="2">本年支出合計</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 </tr>
 <tr>
 <th colspan="2">本期結餘</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <td colspan="4"></td>
 </tr>
 </table>
@@ -49,7 +49,7 @@
 <table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <td colspan="4"></td>
 </tr>
 <tr>
@@ -76,13 +76,13 @@
 </tr>
 <tr>
 <th colspan="2">本月收入合計</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <th colspan="2">本月支出合計</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 </tr>
 <tr>
 <th colspan="2">本期結餘</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <td colspan="4"></td>
 </tr>
 </table>
@@ -94,7 +94,7 @@
 <table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <td colspan="4"></td>
 </tr>
 <tr>
@@ -121,13 +121,13 @@
 </tr>
 <tr>
 <th colspan="2">本月收入合計</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <th colspan="2">本月支出合計</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 </tr>
 <tr>
 <th colspan="2">本期結餘</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <td colspan="4"></td>
 </tr>
 </table>
@@ -139,7 +139,7 @@
 <table class="wikitable">
 <tr>
 <th colspan="2">前期餘額</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <td colspan="4"></td>
 </tr>
 <tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <th colspan="2">本月收入合計</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <th colspan="2">本月支出合計</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 </tr>
 <tr>
 <th colspan="2">本期結餘</th>
-<td style="text-align: right;">$0</td>
+<td style="text-align: right;">TWD 0</td>
 <td colspan="4"></td>
 </tr>
 </table>
