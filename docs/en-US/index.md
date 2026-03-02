@@ -48,6 +48,7 @@
 * NTUT-NPC National Taipei University of Technology Programming Club
 * SCAICT Student Club's Association of Information in Central Taiwan
 * TKUCHC Tamkang University Computer Hardware Club
+* TKUSA Tamkang University Student Association
 * TKUSUC Tamkang University Startup Club
 * Wikidata Taiwan Community
 

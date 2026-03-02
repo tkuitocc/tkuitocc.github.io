@@ -48,6 +48,7 @@
 * NTUT-NPC 國立臺北科技大學程式設計研究社
 * SCAICT 中部高中電資社團聯合會議
 * TKUCHC 淡江大學電腦硬體研習社
+* TKUSA 淡江大學學生會
 * TKUSUC 淡江大學新創社
 * Wikidata Taiwan 臺灣維基數據社群
 
