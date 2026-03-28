@@ -51,4 +51,11 @@
 
 ## Join us
 
-* Discord伺服器： <https://discord.com/invite/XQY8K3nz2a>
+* Discord server: <https://discord.com/invite/XQY8K3nz2a>
+* Telegram group: <https://t.me/TKUOSC>
+* Facebook Page: <https://www.facebook.com/tkuitocc>
+* Instagram: <https://www.instagram.com/tkuitocc>
+* Threads: <https://www.threads.com/@tkuitocc>
+* GitHub organization: <https://github.com/tkuitocc>
+* Tamkang University Wiki: <https://tku.miraheze.org/wiki/en/Main_page>
+* Dauphin iOS app: <https://testflight.apple.com/join/D3K3B9pX>

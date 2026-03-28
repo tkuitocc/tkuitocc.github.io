@@ -52,3 +52,10 @@
 ## 加入我們
 
 * Discord伺服器： <https://discord.com/invite/XQY8K3nz2a>
+* Telegram群組： <https://t.me/TKUOSC>
+* Facebook粉絲專頁： <https://www.facebook.com/tkuitocc>
+* Instagram： <https://www.instagram.com/tkuitocc>
+* Threads: <https://www.threads.com/@tkuitocc>
+* GitHub組織： <https://github.com/tkuitocc>
+* TKU Wiki 淡江人共筆網： <https://tku.miraheze.org/wiki/zh-Hant/首頁>
+* Dauphin iOS應用程式： <https://testflight.apple.com/join/D3K3B9pX>
