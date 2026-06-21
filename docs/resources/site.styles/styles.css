@@ -188,5 +188,6 @@ body[data-site-page-path="zh-Hant"] .site-first-heading {
 }
 
 .site-footer {
+    display: flow-root;
     border-top: 5px var( --border-color-header-footer, #08c ) solid;
 }
