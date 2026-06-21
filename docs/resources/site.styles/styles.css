@@ -142,13 +142,20 @@ body[data-site-page-path="zh-Hant"] .site-first-heading {
     align-items: center;
 }
 
+.site-logo-link-image {
+    height: 45px;
+}
+
 .site-logo-link-text {
     border-bottom: 0;
     padding-bottom: 0;
-    margin-left: 5px;
     font-size: 100%;
     white-space: nowrap;
     color: var( --text-color-header-footer, #eaecf0 );
+}
+
+.site-logo-link-image + .site-logo-link-text {
+    margin-left: 10px;
 }
 
 .site-main {
