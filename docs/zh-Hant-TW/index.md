@@ -67,3 +67,9 @@
 * GitHub組織： <https://github.com/tkuitocc>
 * TKU Wiki 淡江人共筆網： <https://tku.miraheze.org/wiki/zh-Hant/首頁>
 * Dauphin iOS應用程式： <https://testflight.apple.com/join/D3K3B9pX>
+
+## 各屆資料
+
+* [第3屆（2026年度）](2026/)
+* [第2屆（2025年度）](2025/)
+* [第1屆（2024年度）](2024/)

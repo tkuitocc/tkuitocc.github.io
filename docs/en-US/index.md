@@ -67,3 +67,9 @@
 * GitHub organization: <https://github.com/tkuitocc>
 * Tamkang University Wiki: <https://tku.miraheze.org/wiki/en/Main_page>
 * Dauphin iOS app: <https://testflight.apple.com/join/D3K3B9pX>
+
+## 各屆資料
+
+* [3rd-term (2026)](2026/)
+* [2rd-term (2025)](2025/)
+* [1st-term (2024)](2024/)
