@@ -36,6 +36,10 @@
 * Python開發者
 * Dauphin-GTK專案維護者
 
+## Director　Tang Yu（tang_fish）（2026-06-22 ~）
+
+* 淡江大學資訊技術交流社社員
+
 ## Board of Supervisors
 
 ### Chief Supervisor　猫村楓
