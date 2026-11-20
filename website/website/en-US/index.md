@@ -6,16 +6,16 @@ sidebar_label: en | English
 
 ## About us
 
-淡江大學資訊科技及開放文化社群致力於推動淡江大學校內外的資訊科技及開放文化發展，並與其他社群互相合作、交流、學習。
+Tamkang University Information Technology and Open Culture Community is dedicated to driving the development of information technology and open culture both within and beyond the university campus, while fostering collaboration, exchange, and mutual learning with other communities.
 
-資訊科技方面包括專案開發（行動應用程式開發、機器人開發等）、資料結構化、程式語言學習與經驗交流等。
+Information Technology: Our focus includes project development (such as mobile applications and robots development), data structuring, programming language learning, and experience sharing.
 
-開放文化則包含數位共筆（wiki）、開放原始碼、開放資料、數位典藏、多語言翻譯、譯名標準化等。
+Open Culture: Our initiatives include wikis, open-source software, open data, digital archiving, multilingual translation (internationalization/localization), and glossary/terminology standardization.
 
 ## Current services
 
 * Open data
-* 資訊科技交流
+* Tech talks and experience sharing
 * Project development
 * Community governance
 
@@ -51,15 +51,15 @@ sidebar_label: en | English
 * 模擬排課系統「AZQUERYSUCKS」
 * Tamkang University Wiki "TKU Wiki"
 * Wikidata structured open data
-* OpenStreetMap開放街圖繪製
+* OpenStreetMap mapping
 
 ## Collaboration partners
 
-* NTUT-NPC National Taipei University of Technology Programming Club
-* SCAICT Student Club's Association of Information in Central Taiwan
-* TKUCHC Tamkang University Computer Hardware Club
-* TKUSA Tamkang University Student Association
-* TKUSUC Tamkang University Startup Club
+* NTUT-NPC - National Taipei University of Technology Programming Club
+* SCAICT - Student Club's Association of Information in Central Taiwan
+* TKUCHC - Tamkang University Computer Hardware Club
+* TKUSA - Tamkang University Student Association
+* TKUSUC - Tamkang University Startup Club
 * Wikidata Taiwan Community
 
 ## Join us
@@ -74,8 +74,8 @@ sidebar_label: en | English
 * Tamkang University Wiki: <https://tku.miraheze.org/wiki/en/Main_page>
 * Dauphin iOS app: <https://testflight.apple.com/join/D3K3B9pX>
 
-## 各屆資料
+## Terms
 
-* [3rd-term (2026)](/en-US/2026)
-* [2rd-term (2025)](/en-US/2025)
-* [1st-term (2024)](/en-US/2024)
+* [3rd term (2026)](/en-US/2026)
+* [2rd term (2025)](/en-US/2025)
+* [1st term (2024)](/en-US/2024)
