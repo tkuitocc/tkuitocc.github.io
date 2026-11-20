@@ -6,7 +6,7 @@ sidebar_label: en | English
 
 ## About us
 
-Tamkang University Information Technology and Open Culture Community is dedicated to driving the development of information technology and open culture both within and beyond the university campus, while fostering collaboration, exchange, and mutual learning with other communities.
+Tamkang University Information Technology and Open Culture Community (TKUITOCC or ITOCC) is dedicated to driving the development of information technology and open culture both within and beyond the university campus, while fostering collaboration, exchange, and mutual learning with other communities.
 
 Information Technology: Our focus includes project development (such as mobile applications and robots development), data structuring, programming language learning, and experience sharing.
 
