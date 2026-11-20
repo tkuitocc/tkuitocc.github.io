@@ -1,8 +1,8 @@
 ---
-title: Dauphin-iOS
+title: dauphin-android
 ---
 
-# Dauphin-iOS
+# Dauphin-Android
 
 This is the project homepage of Dauphin-Android.
 

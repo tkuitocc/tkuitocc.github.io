@@ -1,8 +1,8 @@
 ---
-title: Dauphin-iOS
+title: tkuwiki
 ---
 
-# Dauphin-iOS
+# TKU Wiki
 
 This is the project homepage of TKU Wiki.
 
