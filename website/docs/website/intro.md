@@ -4,11 +4,6 @@ sidebar_position: 1
 
 # 淡江大學資訊科技及開放文化社群網站維護指引
 
-<div>
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/tkuitocc/website-data/.github%2Fworkflows%2Fevents.yml?label=公告部署&style=flat-square) ![Workflow](https://img.shields.io/github/deployments/tkuitocc/Website/production?label=前端部署&style=flat-square) ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square&label=格式化風格)
-
-</div>
-
 > 網址: [tkuitocc.github.io](https://tkuitocc.github.io)
 
 ## 基本操作
@@ -21,4 +16,3 @@ sidebar_position: 1
 ## 常見及不常見問題
 
 * [為什麼我的資料沒有更新到網頁中?](./github-pages.md)
-* [XXX倉庫是拿來幹嘛的?](./repo.md)
